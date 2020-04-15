@@ -1,0 +1,7 @@
+log
+model
+*pyc*
+.vscode
+test*
+*.dat
+data/poems.txt
