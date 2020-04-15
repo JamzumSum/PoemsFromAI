@@ -17,3 +17,7 @@ Generate poems using seq2seq model.
 ## Credits
 
 @jinfagang [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)
+
+## License
+
+[Apache License](https://github.com/JamzumSum/PoemsFromAI/blob/master/LICENSE.md)
