@@ -5,3 +5,4 @@ model
 test*
 *.dat
 data/poems.txt
+*.docx
