@@ -16,6 +16,10 @@ Generate poems using seq2seq model.
 5. Run `train.py`. `wujue` is better for a test.
 6. Run `compose.py`. Choose only the trained model.
 
+## GUI Version
+
+[another branch](https://github.com/JamzumSum/PoemsFromAI/tree/GUI)
+
 ## Credits
 
 @jinfagang [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)
