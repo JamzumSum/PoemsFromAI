@@ -2,6 +2,8 @@
 
 Generate poems using seq2seq model.
 
+> NOTE: We cannot guarantee any effectiveness of this model. Since nobody will maintain this repo, it will be archived from now.
+
 ## Configuration
 
 * tensorflow 1.14 (cpu or gpu)
